@@ -2,13 +2,11 @@ html
 {
     height: 100%;
     background: radial-gradient(circle,#fff,#ccc);
-    /* display: flex;
-    align-items: center;
-    justify-content: center; */
+   
 }
 #container
 {
-    background-color: #9DD2EA;
+    background-color: lightgreen;
     height: 500px;
     width: 800px;
     border-radius: 20px;
@@ -156,40 +154,3 @@ html
     z-index: 2;
     display: none;
 }
-/* #startbtn a:hover
-{
-    background-color: #B481D9;
-    color: white;
-
-} */
-/* *
-{
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-}
-.container
-{
-    width: 100%;
-    height: 100vh;
-    background-color: gray;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-#box1
-{
-    background-color: white;
-    width:70%;
-    height:70vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-#box2
-{
-    background-color: aquamarine;
-    width: 60%;
-    height: 40vh;
-    margin: 10px;
-} */
